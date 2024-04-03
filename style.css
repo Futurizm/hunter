@@ -1,0 +1,392 @@
+.wrapper {
+  width: 1920px;
+  height: 1070px;
+  overflow: hidden;
+  background-color: #1A1827;
+}
+
+
+.wrapper .overlap-group {
+  position: relative;
+  height: 1070px;
+}
+
+.wrapper .frame {
+  display: inline-flex;
+  align-items: flex-start;
+  gap: 13px;
+  position: absolute;
+  top: 766px;
+  left: 120px;
+}
+
+.wrapper .div-wrapper {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 10px 25px;
+  position: relative;
+  flex: 0 0 auto;
+  background-color: #ffffff0a;
+  border-radius: 6px;
+  box-shadow: 0px 0px 21.5px #00000040;
+}
+
+.wrapper .text-wrapper {
+  margin-top: -1.6px;
+  font-family: "Greycliff CF-Medium", Helvetica;
+  font-weight: 500;
+  position: relative;
+  width: fit-content;
+  color: #ffffff;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: 34px;
+  white-space: nowrap;
+}
+
+.wrapper .wtwgcvbnch {
+  position: absolute;
+  width: 777px;
+  height: 850px;
+  top: 144px;
+  left: 1107px;
+  background-blend-mode: screen;
+  object-fit: cover;
+}
+
+.wrapper .rectangle {
+  width: 542px;
+  height: 1070px;
+  left: 868px;
+  position: absolute;
+  top: 0;
+}
+
+.wrapper .img {
+  width: 1117px;
+  height: 306px;
+  left: 767px;
+  position: absolute;
+  top: 0;
+}
+
+.wrapper .rectangle-2 {
+  width: 218px;
+  height: 1070px;
+  left: 1666px;
+  position: absolute;
+  top: 0;
+}
+
+.wrapper .vector {
+  position: absolute;
+  width: 1884px;
+  height: 730px;
+  top: 0;
+  left: 0;
+}
+
+.wrapper .group {
+  position: absolute;
+  width: 215px;
+  height: 124px;
+  top: 354px;
+  left: 1050px;
+}
+
+.wrapper .vector-2 {
+  position: absolute;
+  width: 36px;
+  height: 31px;
+  top: 324px;
+  left: 1324px;
+}
+
+.wrapper .vector-3 {
+  position: absolute;
+  width: 33px;
+  height: 19px;
+  top: 828px;
+  left: 1193px;
+}
+
+.wrapper .vector-4 {
+  position: absolute;
+  width: 50px;
+  height: 43px;
+  top: 389px;
+  left: 1776px;
+}
+
+.wrapper .vector-5 {
+  position: absolute;
+  width: 50px;
+  height: 16px;
+  top: 839px;
+  left: 1823px;
+}
+
+.wrapper .vector-6 {
+  position: absolute;
+  width: 107px;
+  height: 107px;
+  top: 797px;
+  left: 1728px;
+}
+
+.wrapper .vector-7 {
+  position: absolute;
+  width: 107px;
+  height: 107px;
+  top: 752px;
+  left: 1749px;
+}
+
+.wrapper .vector-8 {
+  position: absolute;
+  width: 107px;
+  height: 107px;
+  top: 815px;
+  left: 1664px;
+}
+
+.wrapper .div {
+  display: inline-flex;
+  align-items: flex-start;
+  gap: 40px;
+  position: absolute;
+  top: 1004px;
+  left: 1637px;
+}
+
+.wrapper .img-2 {
+  position: relative;
+  width: 45px;
+  height: 45px;
+}
+
+.wrapper .vector-9 {
+  position: absolute;
+  width: 1884px;
+  height: 46px;
+  top: 935px;
+  left: 0;
+}
+
+.wrapper .vector-10 {
+  position: absolute;
+  width: 87px;
+  height: 87px;
+  top: 480px;
+  left: 1215px;
+}
+
+.wrapper .vector-11 {
+  position: absolute;
+  width: 87px;
+  height: 87px;
+  top: 530px;
+  left: 1147px;
+}
+
+.wrapper .vector-12 {
+  position: absolute;
+  width: 3px;
+  height: 980px;
+  top: 0;
+  left: 952px;
+}
+
+.wrapper .mask-group {
+  position: absolute;
+  width: 3px;
+  height: 980px;
+  top: 0;
+  left: 1373px;
+}
+
+.wrapper .vector-13 {
+  position: absolute;
+  width: 3px;
+  height: 980px;
+  top: 0;
+  left: 1844px;
+}
+
+.wrapper .vector-14 {
+  position: absolute;
+  width: 3px;
+  height: 980px;
+  top: 0;
+  left: 548px;
+}
+
+.wrapper .vector-15 {
+  position: absolute;
+  width: 3px;
+  height: 936px;
+  top: 0;
+  left: 69px;
+}
+
+.wrapper .menu {
+  position: absolute;
+  width: 1920px;
+  height: 141px;
+  top: 33px;
+  left: 0;
+}
+
+.wrapper .frame-2 {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 60px;
+  padding: 10px;
+  position: absolute;
+  top: 6px;
+  left: 495px;
+}
+
+.wrapper .text-wrapper-2 {
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Geologica", Helvetica;
+  font-weight: 300;
+  color: #ffffff;
+  line-height: 34px;
+  white-space: nowrap;
+  position: relative;
+  font-size: 24px;
+  letter-spacing: 0;
+}
+
+.wrapper .frame-3 {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 7px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.wrapper .path-stroke {
+  position: relative;
+  width: 13px;
+  height: 7px;
+}
+
+.wrapper .vector-16 {
+  position: absolute;
+  width: 1884px;
+  height: 46px;
+  top: 96px;
+  left: 0;
+}
+
+.wrapper .frame-4 {
+  display: inline-flex;
+  align-items: center;
+  gap: 11px;
+  position: absolute;
+  top: 16px;
+  left: 1642px;
+}
+
+.wrapper .telephone-fill {
+  position: relative;
+  width: 18px;
+  height: 18px;
+}
+
+.wrapper .group-2 {
+  position: absolute;
+  width: 125px;
+  height: 61px;
+  top: 0;
+  left: 120px;
+}
+
+.wrapper .frame-5 {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 69px;
+  position: absolute;
+  top: 314px;
+  left: 120px;
+}
+
+.wrapper .frame-wrapper {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 17px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.wrapper .frame-6 {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 26px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.wrapper .text-wrapper-3 {
+  position: relative;
+  width: 937px;
+  margin-top: -1px;
+  background: #FFF;
+  -webkit-background-clip: text !important;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-fill-color: transparent;
+  font-family: "Greycliff CF-Bold", Helvetica;
+  font-weight: 700;
+  color: transparent;
+  font-size: 84px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.wrapper .p {
+  width: 816px;
+  font-family: "Greycliff CF-Medium", Helvetica;
+  font-weight: 500;
+  color: #cdd3da;
+  line-height: 42px;
+  position: relative;
+  font-size: 24px;
+  letter-spacing: 0;
+}
+
+.wrapper .frame-7 {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 25px 95px;
+  position: relative;
+  flex: 0 0 auto;
+  border-radius: 6px;
+  box-shadow: 0px 0px 16.1px #fd880682, inset 0px 4px 4px #ffffff21;
+  background: linear-gradient(180deg, rgb(253, 136, 6) 0%, rgb(219, 63, 44) 100%);
+}
+
+.wrapper .text-wrapper-4 {
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Vela Sans GX-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  line-height: 34px;
+  white-space: nowrap;
+  position: relative;
+  font-size: 24px;
+  letter-spacing: 0;
+}
